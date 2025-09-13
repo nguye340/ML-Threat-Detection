@@ -1,0 +1,6 @@
+jupyter/IDE - Anaconda (other options: Google Colab, Visual Studio, etc.)
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
