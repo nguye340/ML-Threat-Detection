@@ -1,7 +1,7 @@
 # ML-Threat-Detection
 Machine learning project for threat detection using network datasets. Implements feature selection and classification in Python (Jupyter) to reduce false positives and improve SOC detection accuracy.
 
-**[Read My Report Paper Here (PDF)](./SmartFeatureSelection-Discussion.pdf)**
+**[> Read My Report Paper Here <](./SmartFeatureSelection-Discussion.pdf)**
 
 ## 1. Project Overview
 
