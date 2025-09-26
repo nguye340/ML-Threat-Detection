@@ -3,7 +3,7 @@ Machine learning project for threat detection using network datasets. Implements
 
 <div align="center">
 
-# 📄 Discussion Paper
+###📄 Discussion Paper
 
 [![Read the PDF](https://img.shields.io/badge/Read%20Now-Discussion%20Paper-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./SmartFeatureSelection-Discussion.pdf)
 
