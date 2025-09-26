@@ -3,8 +3,8 @@ Machine learning project for threat detection using network datasets. Implements
 
 <p align="center">
   <a href="./SmartFeatureSelection-Discussion.pdf">
-    <span style="font-size:24px; color:#0073e6; font-weight:bold;">
-    > Click Here to View My Report Paper
+    <span style="font-size:200%; color:Green; font-weight:bold;">
+    >> Click Here to View My Report Paper <<
     </span>
   </a>
 </p>
