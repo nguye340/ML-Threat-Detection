@@ -1,6 +1,8 @@
 # ML-Threat-Detection
 Machine learning project for threat detection using network datasets. Implements feature selection and classification in Python (Jupyter) to reduce false positives and improve SOC detection accuracy.
 
+**[Read My Report Paper Here (PDF)](./SmartFeatureSelection-Discussion.pdf)**
+
 ## 1. Project Overview
 
 This project applies machine learning techniques to detect network-based threats using the CICIDS2017 dataset from the Canadian Institute for Cybersecurity. The focus is on improving SOC detection accuracy through feature selection and classification while reducing false positives.
